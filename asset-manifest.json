@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cimmer/static/css/main.94c19555.css",
+    "main.js": "/Cimmer/static/js/main.585c111c.js",
+    "index.html": "/Cimmer/index.html",
+    "main.94c19555.css.map": "/Cimmer/static/css/main.94c19555.css.map",
+    "main.585c111c.js.map": "/Cimmer/static/js/main.585c111c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94c19555.css",
+    "static/js/main.585c111c.js"
+  ]
+}
